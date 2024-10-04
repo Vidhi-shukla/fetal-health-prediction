@@ -1,0 +1,2 @@
+Model,Train Accuracy,Test Accuracy,Overall Accuracy,F1-Score
+Random Forest Classifier,99.882%,95.305%,97.594%,95.233%

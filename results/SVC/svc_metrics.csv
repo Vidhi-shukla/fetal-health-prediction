@@ -1,0 +1,2 @@
+Model,Train Accuracy,Test Accuracy,Overall Accuracy,F1-Score
+Support Vector Classifier (Optimized),94.588%,89.437%,92.012%,90.038%

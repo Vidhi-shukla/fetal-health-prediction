@@ -1,0 +1,2 @@
+Model,Train Accuracy,Test Accuracy,Overall Accuracy,F1-Score
+K-Nearest Neighbors,99.882%,94.131%,97.007%,94.123%

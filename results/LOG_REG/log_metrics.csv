@@ -1,0 +1,2 @@
+Model,Train Accuracy,Test Accuracy,Overall Accuracy,F1-Score
+Logistic Regression,88.471%,89.202%,88.836%,89.288%

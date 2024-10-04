@@ -1,0 +1,2 @@
+Model,Train Accuracy,Test Accuracy,Overall Accuracy,F1-Score
+CatBoost Classifier,99.882%,96.948%,98.415%,96.888%

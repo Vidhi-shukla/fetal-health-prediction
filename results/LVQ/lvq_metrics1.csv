@@ -1,0 +1,2 @@
+Model,Train Accuracy,Test Accuracy,Overall Accuracy,F1-Score
+LVQ,86.706%,87.324%,87.015%,87.932%

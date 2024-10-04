@@ -1,0 +1,2 @@
+Model,Train Accuracy,Test Accuracy,Overall Accuracy,F1-Score
+Easy Ensemble Classifier,92.059%,91.080%,91.569%,91.608%

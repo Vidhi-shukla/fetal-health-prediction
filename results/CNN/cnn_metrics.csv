@@ -1,0 +1,2 @@
+Model,Train Accuracy,Test Accuracy,Overall Accuracy,F1-Score
+CNN,92.235%,90.376%,91.305%,90.420%

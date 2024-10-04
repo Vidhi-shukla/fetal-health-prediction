@@ -1,0 +1,2 @@
+Model,Train Accuracy,Test Accuracy,Overall Accuracy,F1-Score
+Recurrent Neural Network,77.824%,77.934%,77.879%,68.270%

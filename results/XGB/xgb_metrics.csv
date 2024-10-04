@@ -1,0 +1,2 @@
+Model,Train Accuracy,Test Accuracy,Overall Accuracy,F1-Score
+XGBoost Classifier,96.471%,94.836%,95.653%,94.798%

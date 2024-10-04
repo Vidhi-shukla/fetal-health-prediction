@@ -1,0 +1,2 @@
+Model,Train Accuracy,Test Accuracy,Overall Accuracy,F1-Score
+LSTM,93.941%,92.958%,93.449%,92.834%

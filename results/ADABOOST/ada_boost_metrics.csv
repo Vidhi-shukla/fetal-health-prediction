@@ -1,0 +1,2 @@
+Model,Train Accuracy,Test Accuracy,Overall Accuracy,F1-Score
+AdaBoost,94.706%,93.192%,93.949%,93.105%
