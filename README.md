@@ -1,5 +1,8 @@
 # Fetal Health Assessment Using Machine Learning
 
+![OUTPUT](https://github.com/user-attachments/assets/9ea76607-6b16-4c07-8145-01bd5e1e9cad)
+
+
 ## Project Overview
 
 **Fetal Health Prediction** is a machine learning-based tool aimed at improving the accuracy of fetal health assessments using **Cardiotocography (CTG)** data. CTG measures fetal heart rate and uterine contractions during pregnancy, and while it provides crucial insights into fetal well-being, its manual interpretation can be subjective and error-prone.
